@@ -1,0 +1,20 @@
+{
+  "name": "Rohit's Portfolio",
+  "short_name": "RKS",
+  "icons": [
+    {
+      "src": "/app-icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "/index.html",
+  "scope": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "description": "Rohit's Portfolio",
+  "dir": "ltr",
+  "lang": "en-US"
+}
