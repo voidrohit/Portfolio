@@ -8,8 +8,8 @@
       "sizes": "48x48"
     }
   ],
-  "start_url": "/index.html",
-  "scope": "/index.html",
+  "start_url": "/main.html",
+  "scope": "/main.html",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#fff",
